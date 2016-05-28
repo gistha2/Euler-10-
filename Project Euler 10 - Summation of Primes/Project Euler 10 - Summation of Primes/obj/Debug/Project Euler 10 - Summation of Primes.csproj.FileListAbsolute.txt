@@ -1,0 +1,11 @@
+c:\users\gishean.t\documents\visual studio 2015\Projects\Project Euler 10 - Summation of Primes\Project Euler 10 - Summation of Primes\bin\Debug\Project Euler 10 - Summation of Primes.exe.config
+c:\users\gishean.t\documents\visual studio 2015\Projects\Project Euler 10 - Summation of Primes\Project Euler 10 - Summation of Primes\bin\Debug\Project Euler 10 - Summation of Primes.exe
+c:\users\gishean.t\documents\visual studio 2015\Projects\Project Euler 10 - Summation of Primes\Project Euler 10 - Summation of Primes\bin\Debug\Project Euler 10 - Summation of Primes.pdb
+c:\users\gishean.t\documents\visual studio 2015\Projects\Project Euler 10 - Summation of Primes\Project Euler 10 - Summation of Primes\obj\Debug\Project Euler 10 - Summation of Primes.exe
+c:\users\gishean.t\documents\visual studio 2015\Projects\Project Euler 10 - Summation of Primes\Project Euler 10 - Summation of Primes\obj\Debug\Project Euler 10 - Summation of Primes.pdb
+C:\Users\Gishean.T\Documents\Visual Studio 2015\Projects\Project Euler\Project Euler 10 - Summation of Primes\Project Euler 10 - Summation of Primes\bin\Debug\Project Euler 10 - Summation of Primes.exe.config
+C:\Users\Gishean.T\Documents\Visual Studio 2015\Projects\Project Euler\Project Euler 10 - Summation of Primes\Project Euler 10 - Summation of Primes\obj\Debug\Project Euler 10 - Summation of Primes.exe
+C:\Users\Gishean.T\Documents\Visual Studio 2015\Projects\Project Euler\Project Euler 10 - Summation of Primes\Project Euler 10 - Summation of Primes\obj\Debug\Project Euler 10 - Summation of Primes.pdb
+C:\Users\Gishean.T\Documents\Visual Studio 2015\Projects\Project Euler\Project Euler 10 - Summation of Primes\Project Euler 10 - Summation of Primes\bin\Debug\Project Euler 10 - Summation of Primes.exe
+C:\Users\Gishean.T\Documents\Visual Studio 2015\Projects\Project Euler\Project Euler 10 - Summation of Primes\Project Euler 10 - Summation of Primes\bin\Debug\Project Euler 10 - Summation of Primes.pdb
+C:\Users\Gishean.T\Documents\Visual Studio 2015\Projects\Project Euler\Project Euler 10 - Summation of Primes\Project Euler 10 - Summation of Primes\obj\Debug\Project Euler 10 - Summation of Primes.csprojResolveAssemblyReference.cache
